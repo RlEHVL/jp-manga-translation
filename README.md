@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Touhou Translation Study</title>
+    <title>Translation Study</title>
 </head>
 <body>
     <h1>Translation Study Repository</h1>
